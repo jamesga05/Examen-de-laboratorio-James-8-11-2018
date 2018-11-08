@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\bin\Debug\holaaaaa.exe.config
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\bin\Debug\holaaaaa.exe
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\bin\Debug\holaaaaa.pdb
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.Form1.resources
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.Properties.Resources.resources
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.exe
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.pdb
+C:\Users\Dell\source\repos\holaaaaa\holaaaaa\obj\Debug\holaaaaa.Form2.resources
